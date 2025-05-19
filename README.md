@@ -1,4 +1,4 @@
-# Jacob Leone's Tech Gallery
+# Jacob Leone MLE & Audio Dev
 
 Machine Learning Engineer specializing in signal and image processing, with hands-on experience developing AI-driven solutions...
 
